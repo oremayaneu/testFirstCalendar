@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71130243032",
+    "project_id": "firstcalendar-41000",
+    "storage_bucket": "firstcalendar-41000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71130243032:android:554308b9141e1582fe5cad",
+        "android_client_info": {
+          "package_name": "com.firstcalendar.medfare.firstcalendar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxMkK0tH90dpl6v0EXBAG2qO6H4kxPZKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
