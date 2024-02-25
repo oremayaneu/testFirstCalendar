@@ -30,4 +30,6 @@
             android:name="flutterEmbedding"
             android:value="2" />
     </application>
+    <!-- 定期購入アイテム作成のために、請求権限を追加 -->
+    <uses-permission android:name=“com.android.vending.BILLING” />
 </manifest>
